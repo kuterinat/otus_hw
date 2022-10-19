@@ -20,6 +20,6 @@ class Figure(ABC):
 
     def add_area(self, figure):
 
-        if hasattr(figure, 'name') and figure.name in ('Triangle', 'Rectangle', 'Square', 'Circle'):
+        if isinstance(figure, Figure):
             return self.area + figure.area
-        raise ValueError("It is non-geometric figure")
+        raise ValueError("It is not a geometric figure")
