@@ -1,0 +1,1492 @@
+[
+    {
+        "name": "Lolita Lynn",
+        "gender": "female",
+        "address": "389 Neptune Avenue, Belfair, Iowa, 6116",
+        "age": 34,
+        "books": [
+            {
+                "title": "Fundamentals of Wavelets",
+                "author": "Fundamentals of Wavelets",
+                "pages": "228",
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Complete Sherlock Holmes, The - Vol I",
+                "author": "Complete Sherlock Holmes, The - Vol I",
+                "pages": "176",
+                "genre": "fiction"
+            },
+            {
+                "title": "Textbook of Economic Theory",
+                "author": "Textbook of Economic Theory",
+                "pages": "242",
+                "genre": "economics"
+            },
+            {
+                "title": "Great Indian Novel, The",
+                "author": "Great Indian Novel, The",
+                "pages": "198",
+                "genre": "fiction"
+            },
+            {
+                "title": "History of Western Philosophy",
+                "author": "History of Western Philosophy",
+                "pages": "213",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Flashpoint",
+                "author": "Flashpoint",
+                "pages": "265",
+                "genre": "comic"
+            },
+            {
+                "title": "20000 Leagues Under the Sea",
+                "author": "20000 Leagues Under the Sea",
+                "pages": "190",
+                "genre": "fiction"
+            },
+            {
+                "title": "Judge, The",
+                "author": "Judge, The",
+                "pages": "170",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Tonia Hurst",
+        "gender": "female",
+        "address": "917 Terrace Place, Urbana, Idaho, 684",
+        "age": 31,
+        "books": [
+            {
+                "title": "Data Smart",
+                "author": "Data Smart",
+                "pages": "235",
+                "genre": "data_science"
+            },
+            {
+                "title": "Complete Sherlock Holmes, The - Vol II",
+                "author": "Complete Sherlock Holmes, The - Vol II",
+                "pages": "176",
+                "genre": "fiction"
+            },
+            {
+                "title": "Econometric Analysis",
+                "author": "Econometric Analysis",
+                "pages": "242",
+                "genre": "economics"
+            },
+            {
+                "title": "O Jerusalem!",
+                "author": "O Jerusalem!",
+                "pages": "217",
+                "genre": "history"
+            },
+            {
+                "title": "Selected Short Stories",
+                "author": "Selected Short Stories",
+                "pages": "215",
+                "genre": "fiction"
+            },
+            {
+                "title": "Batman Earth One",
+                "author": "Batman Earth One",
+                "pages": "265",
+                "genre": "comic"
+            },
+            {
+                "title": "Batatyachi Chal",
+                "author": "Batatyachi Chal",
+                "pages": "200",
+                "genre": "fiction"
+            },
+            {
+                "title": "Attorney, The",
+                "author": "Attorney, The",
+                "pages": "170",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Brooks Bright",
+        "gender": "male",
+        "address": "901 Mermaid Avenue, Wyoming, Marshall Islands, 8506",
+        "age": 39,
+        "books": [
+            {
+                "title": "God Created the Integers",
+                "author": "God Created the Integers",
+                "pages": "197",
+                "genre": "mathematics"
+            },
+            {
+                "title": "Wealth of Nations, The",
+                "author": "Wealth of Nations, The",
+                "pages": "175",
+                "genre": "economics"
+            },
+            {
+                "title": "Learning OpenCV",
+                "author": "Learning OpenCV",
+                "pages": "232",
+                "genre": "data_science"
+            },
+            {
+                "title": "City of Joy, The",
+                "author": "City of Joy, The",
+                "pages": "177",
+                "genre": "fiction"
+            },
+            {
+                "title": "Rationality & Freedom",
+                "author": "Rationality & Freedom",
+                "pages": "213",
+                "genre": "economics"
+            },
+            {
+                "title": "Crisis on Infinite Earths",
+                "author": "Crisis on Infinite Earths",
+                "pages": "258",
+                "genre": "comic"
+            },
+            {
+                "title": "Hafasavnuk",
+                "author": "Hafasavnuk",
+                "pages": "211",
+                "genre": "fiction"
+            },
+            {
+                "title": "Prince, The",
+                "author": "Prince, The",
+                "pages": "173",
+                "genre": "philosophy"
+            }
+        ]
+    },
+    {
+        "name": "Kathrine Sharp",
+        "gender": "female",
+        "address": "989 Huron Street, Talpa, Utah, 7018",
+        "age": 40,
+        "books": [
+            {
+                "title": "Superfreakonomics",
+                "author": "Superfreakonomics",
+                "pages": "179",
+                "genre": "economics"
+            },
+            {
+                "title": "Pillars of the Earth, The",
+                "author": "Pillars of the Earth, The",
+                "pages": "176",
+                "genre": "fiction"
+            },
+            {
+                "title": "Data Structures Using C & C++",
+                "author": "Data Structures Using C & C++",
+                "pages": "235",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Freedom at Midnight",
+                "author": "Freedom at Midnight",
+                "pages": "167",
+                "genre": "history"
+            },
+            {
+                "title": "Clash of Civilizations and Remaking of the World Order",
+                "author": "Clash of Civilizations and Remaking of the World Order",
+                "pages": "228",
+                "genre": "history"
+            },
+            {
+                "title": "Numbers Behind Numb3rs, The",
+                "author": "Numbers Behind Numb3rs, The",
+                "pages": "202",
+                "genre": "science"
+            },
+            {
+                "title": "Urlasurla",
+                "author": "Urlasurla",
+                "pages": "211",
+                "genre": "fiction"
+            },
+            {
+                "title": "Eyeless in Gaza",
+                "author": "Eyeless in Gaza",
+                "pages": "180",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Shawn Harrell",
+        "gender": "female",
+        "address": "534 Hinsdale Street, Albany, Palau, 3291",
+        "age": 34,
+        "books": [
+            {
+                "title": "Orientalism",
+                "author": "Orientalism",
+                "pages": "197",
+                "genre": "history"
+            },
+            {
+                "title": "Mein Kampf",
+                "author": "Mein Kampf",
+                "pages": "212",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Computer Vision, A Modern Approach",
+                "author": "Computer Vision, A Modern Approach",
+                "pages": "255",
+                "genre": "data_science"
+            },
+            {
+                "title": "Winter of Our Discontent, The",
+                "author": "Winter of Our Discontent, The",
+                "pages": "196",
+                "genre": "fiction"
+            },
+            {
+                "title": "Uncommon Wisdom",
+                "author": "Uncommon Wisdom",
+                "pages": "197",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Superman Earth One - 1",
+                "author": "Superman Earth One - 1",
+                "pages": "259",
+                "genre": "comic"
+            },
+            {
+                "title": "Pointers in C",
+                "author": "Pointers in C",
+                "pages": "213",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Tales of Beedle the Bard",
+                "author": "Tales of Beedle the Bard",
+                "pages": "184",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Amy Casey",
+        "gender": "female",
+        "address": "589 Townsend Street, Hiseville, Connecticut, 7082",
+        "age": 31,
+        "books": [
+            {
+                "title": "Nature of Statistical Learning Theory, The",
+                "author": "Nature of Statistical Learning Theory, The",
+                "pages": "230",
+                "genre": "data_science"
+            },
+            {
+                "title": "Tao of Physics, The",
+                "author": "Tao of Physics, The",
+                "pages": "179",
+                "genre": "science"
+            },
+            {
+                "title": "Principles of Communication Systems",
+                "author": "Principles of Communication Systems",
+                "pages": "240",
+                "genre": "computer_science"
+            },
+            {
+                "title": "On Education",
+                "author": "On Education",
+                "pages": "203",
+                "genre": "philosophy"
+            },
+            {
+                "title": "One",
+                "author": "One",
+                "pages": "172",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Superman Earth One - 2",
+                "author": "Superman Earth One - 2",
+                "pages": "258",
+                "genre": "comic"
+            },
+            {
+                "title": "Cathedral and the Bazaar, The",
+                "author": "Cathedral and the Bazaar, The",
+                "pages": "217",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Girl with the Dragon Tattoo",
+                "author": "Girl with the Dragon Tattoo",
+                "pages": "179",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Lorena Mejia",
+        "gender": "female",
+        "address": "614 High Street, Blanford, Maryland, 2776",
+        "age": 24,
+        "books": [
+            {
+                "title": "Integration of the Indian States",
+                "author": "Integration of the Indian States",
+                "pages": "217",
+                "genre": "history"
+            },
+            {
+                "title": "Surely You're Joking Mr Feynman",
+                "author": "Surely You're Joking Mr Feynman",
+                "pages": "198",
+                "genre": "science"
+            },
+            {
+                "title": "Let Us C",
+                "author": "Let Us C",
+                "pages": "213",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Free Will",
+                "author": "Free Will",
+                "pages": "203",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Karl Marx Biography",
+                "author": "Karl Marx Biography",
+                "pages": "162",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Justice League: Throne of Atlantis",
+                "author": "Justice League: Throne of Atlantis",
+                "pages": "258",
+                "genre": "comic"
+            },
+            {
+                "title": "Design with OpAmps",
+                "author": "Design with OpAmps",
+                "pages": "240",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Girl who kicked the Hornet's Nest",
+                "author": "Girl who kicked the Hornet's Nest",
+                "pages": "179",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Allyson Wilkins",
+        "gender": "female",
+        "address": "572 Downing Street, Ivanhoe, American Samoa, 8235",
+        "age": 29,
+        "books": [
+            {
+                "title": "Drunkard's Walk, The",
+                "author": "Drunkard's Walk, The",
+                "pages": "197",
+                "genre": "science"
+            },
+            {
+                "title": "Farewell to Arms, A",
+                "author": "Farewell to Arms, A",
+                "pages": "179",
+                "genre": "fiction"
+            },
+            {
+                "title": "Amulet of Samarkand, The",
+                "author": "Amulet of Samarkand, The",
+                "pages": "179",
+                "genre": "fiction"
+            },
+            {
+                "title": "Bookless in Baghdad",
+                "author": "Bookless in Baghdad",
+                "pages": "206",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "To Sir With Love",
+                "author": "To Sir With Love",
+                "pages": "197",
+                "genre": "fiction"
+            },
+            {
+                "title": "Justice League: The Villain's Journey",
+                "author": "Justice League: The Villain's Journey",
+                "pages": "258",
+                "genre": "comic"
+            },
+            {
+                "title": "Think Complexity",
+                "author": "Think Complexity",
+                "pages": "230",
+                "genre": "data_science"
+            },
+            {
+                "title": "Girl who played with Fire",
+                "author": "Girl who played with Fire",
+                "pages": "179",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Mays Reed",
+        "gender": "male",
+        "address": "306 Georgia Avenue, Hall, New Mexico, 1402",
+        "age": 38,
+        "books": [
+            {
+                "title": "Image Processing & Mathematical Morphology",
+                "author": "Image Processing & Mathematical Morphology",
+                "pages": "241",
+                "genre": "signal_processing"
+            },
+            {
+                "title": "Veteran, The",
+                "author": "Veteran, The",
+                "pages": "177",
+                "genre": "fiction"
+            },
+            {
+                "title": "Crime and Punishment",
+                "author": "Crime and Punishment",
+                "pages": "180",
+                "genre": "fiction"
+            },
+            {
+                "title": "Case of the Lame Canary, The",
+                "author": "Case of the Lame Canary, The",
+                "pages": "179",
+                "genre": "fiction"
+            },
+            {
+                "title": "Half A Life",
+                "author": "Half A Life",
+                "pages": "196",
+                "genre": "fiction"
+            },
+            {
+                "title": "Death of Superman, The",
+                "author": "Death of Superman, The",
+                "pages": "258",
+                "genre": "comic"
+            },
+            {
+                "title": "Devil's Advocate, The",
+                "author": "Devil's Advocate, The",
+                "pages": "178",
+                "genre": "fiction"
+            },
+            {
+                "title": "Batman Handbook",
+                "author": "Batman Handbook",
+                "pages": "270",
+                "genre": "comic"
+            }
+        ]
+    },
+    {
+        "name": "Katherine Mayer",
+        "gender": "female",
+        "address": "640 Prescott Place, Curtice, Kansas, 3395",
+        "age": 27,
+        "books": [
+            {
+                "title": "How to Think Like Sherlock Holmes",
+                "author": "How to Think Like Sherlock Holmes",
+                "pages": "240",
+                "genre": "psychology"
+            },
+            {
+                "title": "False Impressions",
+                "author": "False Impressions",
+                "pages": "177",
+                "genre": "fiction"
+            },
+            {
+                "title": "Angels & Demons",
+                "author": "Angels & Demons",
+                "pages": "178",
+                "genre": "fiction"
+            },
+            {
+                "title": "Theory of Everything, The",
+                "author": "Theory of Everything, The",
+                "pages": "217",
+                "genre": "science"
+            },
+            {
+                "title": "Discovery of India, The",
+                "author": "Discovery of India, The",
+                "pages": "230",
+                "genre": "history"
+            },
+            {
+                "title": "History of the DC Universe",
+                "author": "History of the DC Universe",
+                "pages": "258",
+                "genre": "comic"
+            },
+            {
+                "title": "Ayn Rand Answers",
+                "author": "Ayn Rand Answers",
+                "pages": "203",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Murphy's Law",
+                "author": "Murphy's Law",
+                "pages": "178",
+                "genre": "nonfiction"
+            }
+        ]
+    },
+    {
+        "name": "Kelly Byers",
+        "gender": "female",
+        "address": "865 Revere Place, Homeland, Arizona, 232",
+        "age": 35,
+        "books": [
+            {
+                "title": "Data Scientists at Work",
+                "author": "Data Scientists at Work",
+                "pages": "230",
+                "genre": "data_science"
+            },
+            {
+                "title": "Last Lecture, The",
+                "author": "Last Lecture, The",
+                "pages": "197",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Argumentative Indian, The",
+                "author": "Argumentative Indian, The",
+                "pages": "209",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "New Markets & Other Essays",
+                "author": "New Markets & Other Essays",
+                "pages": "176",
+                "genre": "economics"
+            },
+            {
+                "title": "Apulki",
+                "author": "Apulki",
+                "pages": "211",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Batman: The Long Halloween",
+                "author": "Batman: The Long Halloween",
+                "pages": "258",
+                "genre": "comic"
+            },
+            {
+                "title": "Philosophy: Who Needs It",
+                "author": "Philosophy: Who Needs It",
+                "pages": "171",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Structure and Randomness",
+                "author": "Structure and Randomness",
+                "pages": "252",
+                "genre": "mathematics"
+            }
+        ]
+    },
+    {
+        "name": "Schwartz Carey",
+        "gender": "male",
+        "address": "860 Centre Street, Hiwasse, Nevada, 2819",
+        "age": 32,
+        "books": [
+            {
+                "title": "Slaughterhouse Five",
+                "author": "Slaughterhouse Five",
+                "pages": "198",
+                "genre": "fiction"
+            },
+            {
+                "title": "Return of the Primitive",
+                "author": "Return of the Primitive",
+                "pages": "202",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Sea of Poppies",
+                "author": "Sea of Poppies",
+                "pages": "197",
+                "genre": "fiction"
+            },
+            {
+                "title": "Electric Universe",
+                "author": "Electric Universe",
+                "pages": "201",
+                "genre": "science"
+            },
+            {
+                "title": "Unpopular Essays",
+                "author": "Unpopular Essays",
+                "pages": "198",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Life in Letters, A",
+                "author": "Life in Letters, A",
+                "pages": "196",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "World's Great Thinkers, The",
+                "author": "World's Great Thinkers, The",
+                "pages": "189",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Image Processing with MATLAB",
+                "author": "Image Processing with MATLAB",
+                "pages": "241",
+                "genre": "signal_processing"
+            }
+        ]
+    },
+    {
+        "name": "Kay Beasley",
+        "gender": "female",
+        "address": "358 Sutton Street, Bellamy, Ohio, 8845",
+        "age": 34,
+        "books": [
+            {
+                "title": "Birth of a Theorem",
+                "author": "Birth of a Theorem",
+                "pages": "234",
+                "genre": "mathematics"
+            },
+            {
+                "title": "Jurassic Park",
+                "author": "Jurassic Park",
+                "pages": "174",
+                "genre": "fiction"
+            },
+            {
+                "title": "Idea of Justice, The",
+                "author": "Idea of Justice, The",
+                "pages": "212",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Hunchback of Notre Dame, The",
+                "author": "Hunchback of Notre Dame, The",
+                "pages": "175",
+                "genre": "fiction"
+            },
+            {
+                "title": "Deceiver, The",
+                "author": "Deceiver, The",
+                "pages": "178",
+                "genre": "fiction"
+            },
+            {
+                "title": "Information, The",
+                "author": "Information, The",
+                "pages": "233",
+                "genre": "science"
+            },
+            {
+                "title": "Data Analysis with Open Source Tools",
+                "author": "Data Analysis with Open Source Tools",
+                "pages": "230",
+                "genre": "data_science"
+            },
+            {
+                "title": "Animal Farm",
+                "author": "Animal Farm",
+                "pages": "180",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Robbins Gordon",
+        "gender": "male",
+        "address": "610 Langham Street, Boykin, Guam, 6688",
+        "age": 23,
+        "books": [
+            {
+                "title": "Structure & Interpretation of Computer Programs",
+                "author": "Structure & Interpretation of Computer Programs",
+                "pages": "240",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Russian Journal, A",
+                "author": "Russian Journal, A",
+                "pages": "196",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Raisin in the Sun, A",
+                "author": "Raisin in the Sun, A",
+                "pages": "175",
+                "genre": "fiction"
+            },
+            {
+                "title": "Burning Bright",
+                "author": "Burning Bright",
+                "pages": "175",
+                "genre": "fiction"
+            },
+            {
+                "title": "Veil: Secret Wars of the CIA",
+                "author": "Veil: Secret Wars of the CIA",
+                "pages": "171",
+                "genre": "history"
+            },
+            {
+                "title": "Journal of Economics, vol 106 No 3",
+                "author": "Journal of Economics, vol 106 No 3",
+                "pages": "235",
+                "genre": "economics"
+            },
+            {
+                "title": "Broca's Brain",
+                "author": "Broca's Brain",
+                "pages": "174",
+                "genre": "science"
+            },
+            {
+                "title": "Idiot, The",
+                "author": "Idiot, The",
+                "pages": "197",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Hillary Bauer",
+        "gender": "female",
+        "address": "951 Cumberland Street, Alleghenyville, Oregon, 7073",
+        "age": 39,
+        "books": [
+            {
+                "title": "Age of Wrath, The",
+                "author": "Age of Wrath, The",
+                "pages": "238",
+                "genre": "history"
+            },
+            {
+                "title": "Tales of Mystery and Imagination",
+                "author": "Tales of Mystery and Imagination",
+                "pages": "172",
+                "genre": "fiction"
+            },
+            {
+                "title": "All the President's Men",
+                "author": "All the President's Men",
+                "pages": "177",
+                "genre": "history"
+            },
+            {
+                "title": "Age of Discontuinity, The",
+                "author": "Age of Discontuinity, The",
+                "pages": "178",
+                "genre": "economics"
+            },
+            {
+                "title": "Char Shabda",
+                "author": "Char Shabda",
+                "pages": "214",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Elements of Information Theory",
+                "author": "Elements of Information Theory",
+                "pages": "229",
+                "genre": "data_science"
+            },
+            {
+                "title": "Men of Mathematics",
+                "author": "Men of Mathematics",
+                "pages": "217",
+                "genre": "mathematics"
+            },
+            {
+                "title": "Christmas Carol, A",
+                "author": "Christmas Carol, A",
+                "pages": "196",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Ruiz Phelps",
+        "gender": "male",
+        "address": "836 Troutman Street, Harborton, Kentucky, 4030",
+        "age": 36,
+        "books": [
+            {
+                "title": "Trial, The",
+                "author": "Trial, The",
+                "pages": "198",
+                "genre": "fiction"
+            },
+            {
+                "title": "Freakonomics",
+                "author": "Freakonomics",
+                "pages": "197",
+                "genre": "economics"
+            },
+            {
+                "title": "Prisoner of Birth, A",
+                "author": "Prisoner of Birth, A",
+                "pages": "176",
+                "genre": "fiction"
+            },
+            {
+                "title": "Doctor in the Nude",
+                "author": "Doctor in the Nude",
+                "pages": "179",
+                "genre": "fiction"
+            },
+            {
+                "title": "Rosy is My Relative",
+                "author": "Rosy is My Relative",
+                "pages": "176",
+                "genre": "fiction"
+            },
+            {
+                "title": "Power Electronics - Rashid",
+                "author": "Power Electronics - Rashid",
+                "pages": "235",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Oxford book of Modern Science Writing",
+                "author": "Oxford book of Modern Science Writing",
+                "pages": "240",
+                "genre": "science"
+            }
+        ]
+    },
+    {
+        "name": "Carolina Bryant",
+        "gender": "female",
+        "address": "377 Middagh Street, Ellerslie, Nebraska, 2644",
+        "age": 31,
+        "books": [
+            {
+                "title": "Statistical Decision Theory'",
+                "author": "Statistical Decision Theory'",
+                "pages": "236",
+                "genre": "data_science"
+            },
+            {
+                "title": "Hidden Connections, The",
+                "author": "Hidden Connections, The",
+                "pages": "197",
+                "genre": "science"
+            },
+            {
+                "title": "Scoop!",
+                "author": "Scoop!",
+                "pages": "216",
+                "genre": "history"
+            },
+            {
+                "title": "Down and Out in Paris & London",
+                "author": "Down and Out in Paris & London",
+                "pages": "179",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Moon and Sixpence, The",
+                "author": "Moon and Sixpence, The",
+                "pages": "180",
+                "genre": "fiction"
+            },
+            {
+                "title": "Power Electronics - Mohan",
+                "author": "Power Electronics - Mohan",
+                "pages": "237",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Justice, Judiciary and Democracy",
+                "author": "Justice, Judiciary and Democracy",
+                "pages": "224",
+                "genre": "philosophy"
+            }
+        ]
+    },
+    {
+        "name": "Sosa Lee",
+        "gender": "male",
+        "address": "364 Holly Street, Omar, California, 5140",
+        "age": 31,
+        "books": [
+            {
+                "title": "Data Mining Handbook",
+                "author": "Data Mining Handbook",
+                "pages": "242",
+                "genre": "data_science"
+            },
+            {
+                "title": "Story of Philosophy, The",
+                "author": "Story of Philosophy, The",
+                "pages": "170",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Ahe Manohar Tari",
+                "author": "Ahe Manohar Tari",
+                "pages": "213",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Identity & Violence",
+                "author": "Identity & Violence",
+                "pages": "219",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Political Philosophers",
+                "author": "Political Philosophers",
+                "pages": "162",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Neural Networks",
+                "author": "Neural Networks",
+                "pages": "240",
+                "genre": "data_science"
+            },
+            {
+                "title": "Arthashastra, The",
+                "author": "Arthashastra, The",
+                "pages": "214",
+                "genre": "philosophy"
+            }
+        ]
+    },
+    {
+        "name": "Lorna Scott",
+        "gender": "female",
+        "address": "878 Marconi Place, Gerton, Alabama, 845",
+        "age": 24,
+        "books": [
+            {
+                "title": "New Machiavelli, The",
+                "author": "New Machiavelli, The",
+                "pages": "180",
+                "genre": "fiction"
+            },
+            {
+                "title": "Asami Asami",
+                "author": "Asami Asami",
+                "pages": "205",
+                "genre": "fiction"
+            },
+            {
+                "title": "Last Mughal, The",
+                "author": "Last Mughal, The",
+                "pages": "199",
+                "genre": "history"
+            },
+            {
+                "title": "Beyond the Three Seas",
+                "author": "Beyond the Three Seas",
+                "pages": "197",
+                "genre": "history"
+            },
+            {
+                "title": "Short History of the World, A",
+                "author": "Short History of the World, A",
+                "pages": "197",
+                "genre": "history"
+            },
+            {
+                "title": "Grapes of Wrath, The",
+                "author": "Grapes of Wrath, The",
+                "pages": "196",
+                "genre": "fiction"
+            },
+            {
+                "title": "We the People",
+                "author": "We the People",
+                "pages": "216",
+                "genre": "philosophy"
+            }
+        ]
+    },
+    {
+        "name": "Bernard Holden",
+        "gender": "male",
+        "address": "674 Pine Street, Conestoga, Mississippi, 4727",
+        "age": 32,
+        "books": [
+            {
+                "title": "Physics & Philosophy",
+                "author": "Physics & Philosophy",
+                "pages": "197",
+                "genre": "science"
+            },
+            {
+                "title": "Journal of a Novel",
+                "author": "Journal of a Novel",
+                "pages": "196",
+                "genre": "fiction"
+            },
+            {
+                "title": "Social Choice & Welfare, Vol 39 No. 1",
+                "author": "Social Choice & Welfare, Vol 39 No. 1",
+                "pages": "235",
+                "genre": "economics"
+            },
+            {
+                "title": "World's Greatest Short Stories, The",
+                "author": "World's Greatest Short Stories, The",
+                "pages": "217",
+                "genre": "fiction"
+            },
+            {
+                "title": "Trembling of a Leaf, The",
+                "author": "Trembling of a Leaf, The",
+                "pages": "205",
+                "genre": "fiction"
+            },
+            {
+                "title": "Vyakti ani Valli",
+                "author": "Vyakti ani Valli",
+                "pages": "211",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "We the Nation",
+                "author": "We the Nation",
+                "pages": "216",
+                "genre": "philosophy"
+            }
+        ]
+    },
+    {
+        "name": "Craft Shields",
+        "gender": "male",
+        "address": "586 Java Street, Catherine, Arkansas, 1445",
+        "age": 31,
+        "books": [
+            {
+                "title": "Making Software",
+                "author": "Making Software",
+                "pages": "232",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Once There Was a War",
+                "author": "Once There Was a War",
+                "pages": "196",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Radiowaril Bhashane & Shrutika",
+                "author": "Radiowaril Bhashane & Shrutika",
+                "pages": "213",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Talking Straight",
+                "author": "Talking Straight",
+                "pages": "175",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Doctor on the Brain",
+                "author": "Doctor on the Brain",
+                "pages": "204",
+                "genre": "fiction"
+            },
+            {
+                "title": "Statistical Learning Theory",
+                "author": "Statistical Learning Theory",
+                "pages": "228",
+                "genre": "data_science"
+            },
+            {
+                "title": "Courtroom Genius, The",
+                "author": "Courtroom Genius, The",
+                "pages": "217",
+                "genre": "nonfiction"
+            }
+        ]
+    },
+    {
+        "name": "Mara English",
+        "gender": "female",
+        "address": "324 Herkimer Court, Boomer, Delaware, 5367",
+        "age": 23,
+        "books": [
+            {
+                "title": "Analysis, Vol I",
+                "author": "Analysis, Vol I",
+                "pages": "248",
+                "genre": "mathematics"
+            },
+            {
+                "title": "Moon is Down, The",
+                "author": "Moon is Down, The",
+                "pages": "196",
+                "genre": "fiction"
+            },
+            {
+                "title": "Gun Gayin Awadi",
+                "author": "Gun Gayin Awadi",
+                "pages": "212",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Maugham's Collected Short Stories, Vol 3",
+                "author": "Maugham's Collected Short Stories, Vol 3",
+                "pages": "171",
+                "genre": "fiction"
+            },
+            {
+                "title": "Simpsons & Their Mathematical Secrets",
+                "author": "Simpsons & Their Mathematical Secrets",
+                "pages": "233",
+                "genre": "science"
+            },
+            {
+                "title": "Empire of the Mughal - The Tainted Throne",
+                "author": "Empire of the Mughal - The Tainted Throne",
+                "pages": "180",
+                "genre": "history"
+            },
+            {
+                "title": "Dongri to Dubai",
+                "author": "Dongri to Dubai",
+                "pages": "216",
+                "genre": "nonfiction"
+            }
+        ]
+    },
+    {
+        "name": "Fisher Levy",
+        "gender": "male",
+        "address": "540 Adler Place, Hachita, Federated States Of Micronesia, 9894",
+        "age": 30,
+        "books": [
+            {
+                "title": "Machine Learning for Hackers",
+                "author": "Machine Learning for Hackers",
+                "pages": "233",
+                "genre": "data_science"
+            },
+            {
+                "title": "Brethren, The",
+                "author": "Brethren, The",
+                "pages": "174",
+                "genre": "fiction"
+            },
+            {
+                "title": "Aghal Paghal",
+                "author": "Aghal Paghal",
+                "pages": "212",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Phantom of Manhattan, The",
+                "author": "Phantom of Manhattan, The",
+                "pages": "180",
+                "genre": "fiction"
+            },
+            {
+                "title": "Pattern Classification",
+                "author": "Pattern Classification",
+                "pages": "241",
+                "genre": "data_science"
+            },
+            {
+                "title": "Empire of the Mughal - Brothers at War",
+                "author": "Empire of the Mughal - Brothers at War",
+                "pages": "180",
+                "genre": "history"
+            },
+            {
+                "title": "History of England, Foundation",
+                "author": "History of England, Foundation",
+                "pages": "197",
+                "genre": "history"
+            }
+        ]
+    },
+    {
+        "name": "Cecelia Snyder",
+        "gender": "female",
+        "address": "236 Anchorage Place, Odessa, Michigan, 6314",
+        "age": 25,
+        "books": [
+            {
+                "title": "Signal and the Noise, The",
+                "author": "Signal and the Noise, The",
+                "pages": "233",
+                "genre": "data_science"
+            },
+            {
+                "title": "In a Free State",
+                "author": "In a Free State",
+                "pages": "196",
+                "genre": "fiction"
+            },
+            {
+                "title": "Maqta-e-Ghalib",
+                "author": "Maqta-e-Ghalib",
+                "pages": "221",
+                "genre": "fiction"
+            },
+            {
+                "title": "Ashenden of The British Agent",
+                "author": "Ashenden of The British Agent",
+                "pages": "160",
+                "genre": "fiction"
+            },
+            {
+                "title": "From Beirut to Jerusalem",
+                "author": "From Beirut to Jerusalem",
+                "pages": "202",
+                "genre": "history"
+            },
+            {
+                "title": "Empire of the Mughal - Ruler of the World",
+                "author": "Empire of the Mughal - Ruler of the World",
+                "pages": "180",
+                "genre": "history"
+            },
+            {
+                "title": "City of Djinns",
+                "author": "City of Djinns",
+                "pages": "198",
+                "genre": "history"
+            }
+        ]
+    },
+    {
+        "name": "Nina Kaufman",
+        "gender": "female",
+        "address": "538 Ashford Street, Boling, West Virginia, 7840",
+        "age": 22,
+        "books": [
+            {
+                "title": "Python for Data Analysis",
+                "author": "Python for Data Analysis",
+                "pages": "233",
+                "genre": "data_science"
+            },
+            {
+                "title": "Catch 22",
+                "author": "Catch 22",
+                "pages": "178",
+                "genre": "fiction"
+            },
+            {
+                "title": "Beyond Degrees",
+                "author": "Beyond Degrees",
+                "pages": "222",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Zen & The Art of Motorcycle Maintenance",
+                "author": "Zen & The Art of Motorcycle Maintenance",
+                "pages": "172",
+                "genre": "philosophy"
+            },
+            {
+                "title": "Code Book, The",
+                "author": "Code Book, The",
+                "pages": "197",
+                "genre": "science"
+            },
+            {
+                "title": "Empire of the Mughal - The Serpent's Tooth",
+                "author": "Empire of the Mughal - The Serpent's Tooth",
+                "pages": "180",
+                "genre": "history"
+            },
+            {
+                "title": "India's Legal System",
+                "author": "India's Legal System",
+                "pages": "177",
+                "genre": "nonfiction"
+            }
+        ]
+    },
+    {
+        "name": "Dillard Branch",
+        "gender": "male",
+        "address": "225 Hampton Avenue, Bethany, Pennsylvania, 8056",
+        "age": 37,
+        "books": [
+            {
+                "title": "Introduction to Algorithms",
+                "author": "Introduction to Algorithms",
+                "pages": "234",
+                "genre": "computer_science"
+            },
+            {
+                "title": "Complete Mastermind, The",
+                "author": "Complete Mastermind, The",
+                "pages": "178",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Manasa",
+                "author": "Manasa",
+                "pages": "213",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Great War for Civilization, The",
+                "author": "Great War for Civilization, The",
+                "pages": "197",
+                "genre": "history"
+            },
+            {
+                "title": "Age of the Warrior, The",
+                "author": "Age of the Warrior, The",
+                "pages": "197",
+                "genre": "history"
+            },
+            {
+                "title": "Empire of the Mughal - Raiders from the North",
+                "author": "Empire of the Mughal - Raiders from the North",
+                "pages": "180",
+                "genre": "history"
+            },
+            {
+                "title": "More Tears to Cry",
+                "author": "More Tears to Cry",
+                "pages": "235",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Dyer Bartlett",
+        "gender": "male",
+        "address": "880 Meadow Street, Seymour, Puerto Rico, 7921",
+        "age": 33,
+        "books": [
+            {
+                "title": "Beautiful and the Damned, The",
+                "author": "Beautiful and the Damned, The",
+                "pages": "198",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Dylan on Dylan",
+                "author": "Dylan on Dylan",
+                "pages": "197",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "India from Midnight to Milennium",
+                "author": "India from Midnight to Milennium",
+                "pages": "198",
+                "genre": "history"
+            },
+            {
+                "title": "We the Living",
+                "author": "We the Living",
+                "pages": "178",
+                "genre": "fiction"
+            },
+            {
+                "title": "Final Crisis",
+                "author": "Final Crisis",
+                "pages": "257",
+                "genre": "comic"
+            },
+            {
+                "title": "Mossad",
+                "author": "Mossad",
+                "pages": "236",
+                "genre": "history"
+            },
+            {
+                "title": "Ropemaker, The",
+                "author": "Ropemaker, The",
+                "pages": "196",
+                "genre": "fiction"
+            }
+        ]
+    },
+    {
+        "name": "Tyler Dotson",
+        "gender": "male",
+        "address": "220 Herkimer Place, Turpin, Oklahoma, 4468",
+        "age": 20,
+        "books": [
+            {
+                "title": "Outsider, The",
+                "author": "Outsider, The",
+                "pages": "198",
+                "genre": "fiction"
+            },
+            {
+                "title": "Soft Computing & Intelligent Systems",
+                "author": "Soft Computing & Intelligent Systems",
+                "pages": "242",
+                "genre": "data_science"
+            },
+            {
+                "title": "World's Greatest Trials, The",
+                "author": "World's Greatest Trials, The",
+                "pages": "210",
+                "genre": "history"
+            },
+            {
+                "title": "Artist and the Mathematician, The",
+                "author": "Artist and the Mathematician, The",
+                "pages": "186",
+                "genre": "science"
+            },
+            {
+                "title": "Killing Joke, The",
+                "author": "Killing Joke, The",
+                "pages": "283",
+                "genre": "comic"
+            },
+            {
+                "title": "Jim Corbett Omnibus",
+                "author": "Jim Corbett Omnibus",
+                "pages": "223",
+                "genre": "nonfiction"
+            },
+            {
+                "title": "Angels & Demons",
+                "author": "Angels & Demons",
+                "pages": "170",
+                "genre": "fiction"
+            }
+        ]
+    }
+]
